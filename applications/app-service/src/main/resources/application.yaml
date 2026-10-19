@@ -11,7 +11,7 @@ adapters:
   r2dbc:
     host: "localhost"
     port: 5432
-    database: "usuarios"
+    database: "usuarios_db"
     schema: "public"
     username: "postgres"
     password: "postgres"
